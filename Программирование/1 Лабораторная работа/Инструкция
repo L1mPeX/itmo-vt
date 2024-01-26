@@ -1,0 +1,12 @@
+# Компилируем наш проект
+javac Main.java
+
+# Собираем в *.jar 
+jar cvf Main.jar *.class
+
+# В ручную создаем файл с метаданными для нашего проекта
+touch MANIFEST.MF
+echo "Main-Class: Main" >> MANIFEST.MF
+
+# Наконец добавим в архив наши метаданные
+jar uvfm Main.jar MANIFEST.MF
