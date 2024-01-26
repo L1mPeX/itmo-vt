@@ -65,7 +65,8 @@
 | https://github.com/Imtjl/1st-year-guide <br>https://yank0vy3rdna.github.io/itmo-faq/ | Гайд для первокурсников и абитуриентов |
 | https://t.me/ITMOhomework | Примеры готовых лабораторных работ |
 | https://205826.github.io | Полезные ссылки |
-| https://github.com/petrovviacheslav/myitmo <br>https://github.com/maxbarsukov/itmo | Много готовых лабораторных работ, ДЗ и гайдов |
+| https://github.com/maxbarsukov/itmo | Много готовых лабораторных работ, ДЗ и гайдов |
+| https://github.com/petrovviacheslav/myitmo | Одногруппник, если чего-то у меня нет, то ищите у него |
 | https://picloud.pw/about/ | Некоторые ДЗ и лабораторные до 2020 года |
 | https://rosroble.github.io/ | Полезная информация по лабораторным |
 | https://telegra.ph/Poleznye-ssylki-dlya-pervokursnikov-VT-08-26 | Другие полезные ссылки |
@@ -76,7 +77,7 @@
 ## Лицензия <a name="license"></a>
 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Проект доступен с открытым исходным кодом на условиях [Лицензии CC BY-NC-SA 1.0](./LICENSE).
+Проект доступен с открытым исходным кодом на условиях [Лицензии CC BY-NC-SA 4.0](./LICENSE).
 *Авторские права 2024 Андрей Казарин и Вячеслав Петров*
 
 
