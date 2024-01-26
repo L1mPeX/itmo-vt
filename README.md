@@ -1,8 +1,8 @@
 # ИТМО
 
-> Системное прикладное программное обеспечение в Университете ИТМО<br><sub><sup>(Механико-оптическое и часовое отделение Ремесленного училища цесаревича Николая)</sup></sub>
+> Системное прикладное программное обеспечение в Университете ИТМО<br>
 
-<img alt="Let's all love Lain!" src="https://github.com/maxbarsukov/itmo/blob/master/.docs/lain4.gif" height="180">
+<img alt="Nino Nakano forever!" src="https://media1.tenor.com/m/EXKauHQYpJcAAAAC/nino-nakano-nakano-nino.gif" height="180">
 
 | :exclamation: <b>Любое копирование материалов целиком или частично,<br>но без ссылки на автора, является кражей интеллектуальной собственности.<br>Это плагиат, за который из ИТМО отчисляют.</b> :exclamation: |
 |-----------------------------------------|
@@ -52,7 +52,7 @@
 | [Линейная алгебра<br>(базовый уровень)](./1-2%20линейная%20алгебра) | :heavy_check_mark: | :construction: |  |  |  |  |  |  |
 | [Безопасность<br>жизнедеятельности](./2%20бжд) |  | :construction:: |  |  |  |  |  |  |
 
-| :heavy_check_mark: | :construction: | :hourglass: | :cross_mark: |
+| :heavy_check_mark: | :construction: | :hourglass: | ❌ |
 | ---- | ---- | ---- | ---- |
 | зачтено | в процессе | ещё впереди | работы утеряны или не сохранялись |
 
