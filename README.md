@@ -2,7 +2,7 @@
 
 > Системное прикладное программное обеспечение в Университете ИТМО<br>
 
-<img alt="Nino Nakano forever!" src="https://media1.tenor.com/m/EXKauHQYpJcAAAAC/nino-nakano-nakano-nino.gif" height="550">
+<img alt="Nino Nakano forever!" src="https://media1.tenor.com/m/EXKauHQYpJcAAAAC/nino-nakano-nakano-nino.gif" height="400">
 
 | :exclamation: <b>Любое копирование материалов целиком или частично,<br>но без ссылки на автора, является кражей интеллектуальной собственности.<br>Это плагиат, за который из ИТМО отчисляют.</b> :exclamation: |
 |-----------------------------------------|
