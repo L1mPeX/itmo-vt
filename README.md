@@ -71,7 +71,7 @@
 | https://rosroble.github.io/ | Полезная информация по лабораторным |
 | https://telegra.ph/Poleznye-ssylki-dlya-pervokursnikov-VT-08-26 | Другие полезные ссылки |
 
-[**Сайт кафедры Вычислительной техники с заданиями к работам**](https://se.ifmo.ru)
+[**Сайт кафедры Вычислительной Техники с заданиями к работам**](https://se.ifmo.ru)
 
 ---
 ## Лицензия <a name="license"></a>
