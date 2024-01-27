@@ -1,6 +1,6 @@
 # Математический анализ
 
-<img alt="gif" src="https://media1.tenor.com/m/rGJO11j_8QsAAAAd/kurona-math.gif" height="250">
+<img alt="gif" src="https://media1.tenor.com/m/e9FOzYO65wsAAAAd/imnota-cat-fubuki.gif" height="250">
 
 > Пределом функции (предельным значением функции) в точке, предельной для области определения функции, называется такая величина, к которой значение рассматриваемой функции стремится при стремлении её аргумента к данной точке
 
