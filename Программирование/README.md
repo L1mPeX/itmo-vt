@@ -2,8 +2,7 @@
 
 <img alt="Bongo" src="https://github.com/maxbarsukov/itmo/blob/master/.docs/bongo.gif" height="150">
 
-**Лектор:** Письмак Алексей Евгеньевич
-
+**Лектор:** Письмак Алексей Евгеньевич <br>
 **Практик:**  Письмак Алексей Евгеньевич
 
 ## Результаты
