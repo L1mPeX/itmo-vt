@@ -83,7 +83,7 @@
 
 <a href="https://github.com/L1mPeX/itmo-vt/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=L1mPeX/itmo-vt" />
-</a>
+</a><br>
 
 
 **Поставьте звезду :star:, если вы нашли этот проект полезным.**
