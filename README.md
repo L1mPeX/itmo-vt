@@ -79,7 +79,11 @@
 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 Проект доступен с открытым исходным кодом на условиях [Лицензии CC BY-NC-SA 4.0](./LICENSE).
-*Авторские права 2024 Андрей Казарин и Вячеслав Петров*
+*Авторские права 2024 Андрей Казарин и Вячеслав Петров*<br>
+
+<a href="https://github.com/maxbarsukov/itmo/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=maxbarsukov/itmo" />
+</a>
 
 
 **Поставьте звезду :star:, если вы нашли этот проект полезным.**
